@@ -1,6 +1,6 @@
 '''
 Members of the group: Zirui Fang, Hao Guo (alphabetical order)
-assignment_1_1.py: The code checks if a given undirected graph contains any induced paw,
+assignment_1_Ex1.py: The code checks if a given undirected graph contains any induced paw,
                    a paw is a 4 vertices graph that consists of a triangle and a vertex which
                    is adjacent to just one of the vertices of that triangle. The code reads
                    the graph, generates all possible 4-node combinations, and verifies if they
