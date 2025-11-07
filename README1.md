@@ -1,9 +1,9 @@
 # Combinatorial Algorithms (Spring 2025)
 ## Assignment 1
 
-**Authors:**  
+**Authors (in arbitrary order):**  
+- Zirui Fang
 - Hao Guo 
-- Zirui Fang 
 
 **Date:** April 2025  
 **Course:** Combinatorial Algorithms  
