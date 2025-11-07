@@ -1,6 +1,6 @@
 """
-Members of the group: Hao Guo, Zirui Fang
-assignment_Ex2.py: The code performs topological sort on a directed graph using DFS and calculates
+Members of the group: Zirui Fang, Hao Guo (alphabetical order)
+assignment_1_Ex2.py: The code performs topological sort on a directed graph using DFS and calculates
                    the Trotter-Johnson rank of the resulting permutation. It reads restrictions pairs
                    to build the graph, checks for cycles, and outputs either a valid topological order
                    with its rank or indicates if the conditions are impossible to satisfy.
