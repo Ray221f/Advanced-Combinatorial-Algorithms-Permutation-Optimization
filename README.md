@@ -170,14 +170,3 @@ python3 assignment_Ex2.py
 Similar interactive input format: Enter True, if you want to see the examples from the assignment and ours.
 Enter False, if you want to test your own cases.
 
-# 104291 - Combinatorial Algorithms (Spring 2025)
-## Assignment 2 (v1.4)
-
-**Authors:**  
-- Hao Guo (999014913)  
-- Zirui Fang (999014574)
-
-**Date:** June 2025  
-**Course:** Combinatorial Algorithms  
-**Instructor:** Prof. Pablo Ezequiel Terlisky  
-
