@@ -1,6 +1,6 @@
 # Combinatorial Algorithms & Graph Theory Project
 
-A comprehensive research project implementing combinatorial algorithms and graph theory solutions, developed as part of computer science coursework.
+A comprehensive project implementing combinatorial algorithms and graph theory solutions, developed as part of computer science coursework.
 
 ## 📋 Project Overview
 
