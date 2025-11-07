@@ -1,7 +1,7 @@
 # Combinatorial Algorithms (Spring 2025)
 ## Assignment 2
 
-**Authors:**  
+**Authors (in arbitrary order):**  
 - Hao Guo 
 - Zirui Fang 
 
