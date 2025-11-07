@@ -41,8 +41,3 @@ This implementation is academically grounded in established computer science lit
 - Graph traversal and search algorithms
 - Algorithmic complexity analysis framework
 - Induced subgraph detection approaches
-
-### Implementation Notes
-- Exercise 1: Induced paw detection extends basic graph algorithms [2] with specialized isomorphism checks
-- Exercise 2: Constrained permutation ranking implements Trotter-Johnson scheme [1] with precedence constraint integration
-- All algorithmic adaptations and optimizations are documented in respective source files
