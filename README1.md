@@ -163,10 +163,10 @@ Both programs are efficient enough to handle all test cases (including 10-vertex
 
 ### 1. Run Exercise
 ```bash
-python3 assignment_Ex1.py
+python3 induced_paw_detection.py
 You will be prompted: Enter True, if you want to see the examples from assignment and ours.
 Enter False, if you want to test your own graph.
-python3 assignment_Ex2.py
+python3 constrained_permutation_ranking.py
 Similar interactive input format: Enter True, if you want to see the examples from the assignment and ours.
 Enter False, if you want to test your own cases.
 
