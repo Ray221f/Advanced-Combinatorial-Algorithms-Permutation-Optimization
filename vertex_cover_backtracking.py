@@ -1,5 +1,6 @@
 '''
-Members of the group: Hao Guo, Zirui Fang
+Members of the group: Hao Guo, Zirui Fang (in arbitrary order)
+Assignment_2_Ex3
 '''
 # We cite generate_adj_list_from_edge_list code from Shortest Path Algorithms.py, which is provided by professor Pablo Ezequiel TERLISKY on Moodle
 def generate_adj_list_from_edge_list(n, E, is_digraph=False):
