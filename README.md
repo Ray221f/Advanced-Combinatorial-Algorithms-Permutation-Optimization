@@ -15,7 +15,7 @@ This repository contains advanced implementations of combinatorial algorithms fr
 - Comprehensive test suite with edge case coverage
 
 ## Academic Context
-Developed as part of [104291] Combinatorial Algorithms at [GTIIT], demonstrating mastery of:
+Developed as part of 104291 Combinatorial Algorithms at GTIIT, demonstrating mastery of:
 - Graph isomorphism and subgraph detection
 - Permutation group theory
 - Algorithmic complexity analysis
