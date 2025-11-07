@@ -1,4 +1,4 @@
-# Combinatorial Algorithms Research Project
+# Combinatorial Algorithms Project
 
 ## Project Overview
 This repository contains advanced implementations of combinatorial algorithms from theoretical computer science.
