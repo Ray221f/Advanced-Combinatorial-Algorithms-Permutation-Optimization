@@ -161,7 +161,7 @@ Both programs are efficient enough to handle all test cases (including 10-vertex
 
 ## ⚙️ Usage Instructions
 
-### 1. Run Exercise 1 (Paw Detection)
+### 1. Run Exercise
 ```bash
 python3 assignment_Ex1.py
 You will be prompted: Enter True, if you want to see the examples from assignment and ours.
