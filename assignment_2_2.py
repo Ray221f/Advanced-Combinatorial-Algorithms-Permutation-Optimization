@@ -1,5 +1,5 @@
 '''
-Members of the group: Hao Guo(999014913), Zirui Fang(999014574)
+Members of the group: Hao Guo, Zirui Fang
 '''
 import heapq
 import math
